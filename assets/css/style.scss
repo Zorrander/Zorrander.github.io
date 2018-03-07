@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
-#cognitive-robotics-tut{
-  color:red;
+article .begin-examples ~ h3,
+article .begin-examples ~ p,
+article .begin-examples ~ .highlight {
+    width: 50%;
 }
+
