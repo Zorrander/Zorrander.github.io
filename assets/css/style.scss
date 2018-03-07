@@ -3,9 +3,8 @@
 
 @import "{{ site.theme }}";
 
-article .begin-examples ~ h3,
-article .begin-examples ~ p,
-article .begin-examples ~ .highlight {
+#human-robot-interactive-learning-using-ontologies-and-symbol-manipulation ~ h3,
+#human-robot-interactive-learning-using-ontologies-and-symbol-manipulation:h3 ~ p {
     width: 50%;
 }
 
