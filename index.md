@@ -2,8 +2,18 @@
 layout: default
 ---
 
-# Cognitive Robotics TUT
+# Human-Robot Interactive Learning Using Ontologies and Symbol Manipulation 
 
-This page contains material related to the research about Human-Robot interaction performed in the Cognitive Robotics group of Tampere University of Technology.
+High level reasoning and planning with Care-O-Bot 4 and knowrob.
+
+### Project 
+Overview, installation and more explanations about the project.
+[Documentation](http://human-robot-interactive-learning.readthedocs.io)
 
 
+### cogrob-tut-hri
+Some explanatory text.
+
+# Awareness in Human-Robot Interaction for Collaborative Tasks
+
+Perception, reasoning and communication capabilities considering a human and the Franka robotics arm with a collaborative task.
