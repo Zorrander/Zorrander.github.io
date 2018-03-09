@@ -1,1 +1,5 @@
-Personal info
+---
+layout: default
+---
+
+Coming soon
