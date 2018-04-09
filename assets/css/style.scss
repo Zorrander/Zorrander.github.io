@@ -22,11 +22,10 @@ li a {
     text-decoration: none;
 }
 
-li a:hover:not(.active) {
+li a:hover {
     background-color: #111;
 }
 
-.active {
-    background-color: #f2bb13;
+img{
+  box-shadow: none;
 }
-
