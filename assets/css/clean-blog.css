@@ -308,6 +308,9 @@ header.masthead .post-heading .meta a {
 .group h2, .group p{
   text-align: left;
   padding-left: 40%;
+}
+
+.group p{
   margin-bottom: 15%;
 }
 
@@ -427,9 +430,9 @@ footer .copyright {
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  color: #fff;
-  background-color: #00657b !important;
-  border-color: #00657b !important;
+  color:  #4ca489;
+  background-color: #e0ebe8 !important;
+  border-color: #e0ebe8 !important;
 }
 
 .btn-lg {
@@ -483,4 +486,10 @@ footer .copyright {
 
 .contact{
   background-color: #4ca489;
+  border-color: #e0ebe8;
+}
+
+img{
+  margin-top: 50px;
+  margin-bottom: 70px;
 }
