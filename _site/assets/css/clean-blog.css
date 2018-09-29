@@ -30,13 +30,21 @@ h6 {
 }
 
 a {
-  color: #212529;
+  color: #4ca489;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
 
 a:focus, a:hover {
-  color: #0085A1;
+  -webkit-transition: color 0.4s;
+  transition: color 0.4s;
+  color: #e0ebe8;
+}
+
+.fab:hover{
+  -webkit-transition: color 0.4s;
+  transition: color 0.4s;
+  color: #4ca489;
 }
 
 blockquote {
@@ -424,15 +432,16 @@ footer .copyright {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-.btn-primary {
-  background-color: #0085A1;
-  border-color: #0085A1;
+.contact{
+ background-color: #4ca489;
+ border-color: #e0ebe8;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   color:  #4ca489;
   background-color: #e0ebe8 !important;
   border-color: #e0ebe8 !important;
+  box-shadow: none;
 }
 
 .btn-lg {
@@ -484,10 +493,6 @@ footer .copyright {
   background-color: #f2a0a0;
 }
 
-.contact{
-  background-color: #4ca489;
-  border-color: #e0ebe8;
-}
 
 img{
   margin-top: 50px;
